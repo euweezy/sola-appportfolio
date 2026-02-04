@@ -1,7 +1,6 @@
 "use client";
 
 import React from "react";
-import { WORKS } from "@/app/data/content";
 
 interface ProficienciesProps {
   list: string[];
